@@ -1,7 +1,8 @@
-To run this projects you need certain requirements.
+To run this projects you need certain 
+
 To install required requirements.
-plz run this command in the cmd.*If your using conda env*
+
+plz run this command in the cmd.
 
 pip install -r requirement.txt
 
-*Alternative*: pip install pygame
